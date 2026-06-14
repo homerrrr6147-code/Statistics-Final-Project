@@ -1,0 +1,4502 @@
+{
+  "schema": "template_fill_pptx_library.v1",
+  "source_pptx": "C:\\Users\\HOMER\\Desktop\\数理统计大作业\\projects\\T3_course_defense\\exports\\T3_中东冲突与国际油价_课程答辩_20260612_211804.pptx",
+  "slide_count": 16,
+  "canvas_px": {
+    "width": 1280,
+    "height": 720
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "page_type": "cover_candidate",
+      "text_summary": "汇报人：XXX\n指导教师：XXX\n2026年6月12日\n中东冲突对国际油价冲击\n事件研究法与回归分析\n数理统计课程作业答辩\nBEIHANG UNIVERSITY",
+      "slots": [
+        {
+          "slot_id": "s01_sh7",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 20,
+            "y": 12,
+            "width": 1240,
+            "height": 549
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s01_sh10",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 520,
+            "y": 541,
+            "width": 241,
+            "height": 40
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s01_sh11",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 315,
+            "y": 623,
+            "width": 290,
+            "height": 51
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s01_sh12",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 675,
+            "y": 623,
+            "width": 290,
+            "height": 51
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s01_sh15",
+          "role": "label_candidate",
+          "text": "汇报人：XXX",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 328,
+            "y": 633,
+            "width": 274,
+            "height": 31
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh16",
+          "role": "label_candidate",
+          "text": "指导教师：XXX",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 678,
+            "y": 633,
+            "width": 274,
+            "height": 31
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh17",
+          "role": "body_candidate",
+          "text": "2026年6月12日",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 503,
+            "y": 547,
+            "width": 274,
+            "height": 31
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh24",
+          "role": "body_candidate",
+          "text": "中东冲突对国际油价冲击\n事件研究法与回归分析",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 54,
+            "y": 233,
+            "width": 1172,
+            "height": 224
+          },
+          "text_metrics": {
+            "font_size_px": 72.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh25",
+          "role": "label_candidate",
+          "text": "数理统计课程作业答辩",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 123,
+            "y": 477,
+            "width": 1035,
+            "height": 31
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh23",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 228,
+            "y": 129,
+            "width": 368,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 2,
+      "page_type": "toc_candidate",
+      "text_summary": "CONTENTS\n目 录\n01\n02\n03\n04\n研究背景与问题\nBACKGROUND & QUESTIONS\n统计方法与设计\nMETHODS & DESIGN\n实证结果与解释\nEMPIRICAL RESULTS\n结论、局限与展望\nCONCLUSION & OUTLOOK\nBEIHANG UNIVERSITY",
+      "slots": [
+        {
+          "slot_id": "s02_sh3",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -2,
+            "y": 0,
+            "width": 657,
+            "height": 722
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s02_sh4",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 135,
+            "y": 130,
+            "width": 317,
+            "height": 142
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s02_sh7",
+          "role": "title_candidate",
+          "text": "CONTENTS",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 545,
+            "y": 122,
+            "width": 186,
+            "height": 42
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh8",
+          "role": "title_candidate",
+          "text": "目 录",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 512,
+            "y": 24,
+            "width": 253,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 64.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh11",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 156,
+            "width": 145,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s02_sh12",
+          "role": "label_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 588,
+            "y": 162,
+            "width": 114,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh15",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 156,
+            "width": 145,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s02_sh16",
+          "role": "label_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 588,
+            "y": 162,
+            "width": 114,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh18",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 156,
+            "width": 145,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s02_sh19",
+          "role": "label_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 588,
+            "y": 162,
+            "width": 114,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh21",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 156,
+            "width": 145,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s02_sh22",
+          "role": "label_candidate",
+          "text": "04",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 588,
+            "y": 162,
+            "width": 114,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh31",
+          "role": "title_candidate",
+          "text": "研究背景与问题",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 757,
+            "y": 102,
+            "width": 283,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh32",
+          "role": "title_candidate",
+          "text": "BACKGROUND & QUESTIONS",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 757,
+            "y": 156,
+            "width": 346,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh35",
+          "role": "title_candidate",
+          "text": "统计方法与设计",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 757,
+            "y": 102,
+            "width": 283,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh36",
+          "role": "title_candidate",
+          "text": "METHODS & DESIGN",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 757,
+            "y": 156,
+            "width": 346,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh38",
+          "role": "title_candidate",
+          "text": "实证结果与解释",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 757,
+            "y": 102,
+            "width": 283,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh39",
+          "role": "title_candidate",
+          "text": "EMPIRICAL RESULTS",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 757,
+            "y": 156,
+            "width": 346,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh41",
+          "role": "title_candidate",
+          "text": "结论、局限与展望",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 757,
+            "y": 102,
+            "width": 283,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh42",
+          "role": "title_candidate",
+          "text": "CONCLUSION & OUTLOOK",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 757,
+            "y": 156,
+            "width": 346,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh47",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 3,
+      "page_type": "content_candidate",
+      "text_summary": "01\n研究背景与问题\n冲突升级如何改变石油供应预期、航运安全与风险溢价？\nBEIHANG UNIVERSITY",
+      "slots": [
+        {
+          "slot_id": "s03_sh2",
+          "role": "title_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 676,
+            "y": 82,
+            "width": 447,
+            "height": 169
+          },
+          "text_metrics": {
+            "font_size_px": 265.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s03_sh3",
+          "role": "label_candidate",
+          "text": "研究背景与问题",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 195,
+            "y": 341,
+            "width": 767,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 88.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s03_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -399,
+            "y": -226,
+            "width": 786,
+            "height": 503
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s03_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -366,
+            "y": -156,
+            "width": 675,
+            "height": 381
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s03_sh8",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -399,
+            "y": -210,
+            "width": 786,
+            "height": 488
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s03_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -366,
+            "y": -156,
+            "width": 675,
+            "height": 381
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s03_sh17",
+          "role": "label_candidate",
+          "text": "冲突升级如何改变石油供应预期、航运安全与风险溢价？",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 226,
+            "y": 464,
+            "width": 639,
+            "height": 126
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s03_sh26",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 4,
+      "page_type": "content_candidate",
+      "text_summary": "冲突传导机制\n2026.06\nBEIHANG UNIVERSITY\n供应\n核设施、油田和出口终端受到威胁，市场上调潜在供应损失。\n航运\n霍尔木兹海峡等通道受阻预期推高运输、保险与交割成本。\n预期\n交易者在真实减产前提前定价，造成事件日前后价格快速调整。\n溢价\n地缘政治不确定性提高持有与套期保值需求，放大短期波动。",
+      "slots": [
+        {
+          "slot_id": "s04_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh10",
+          "role": "title_candidate",
+          "text": "冲突传导机制",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh14",
+          "role": "label_candidate",
+          "text": "供应",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 171,
+            "y": 386,
+            "width": 120,
+            "height": 46
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh15",
+          "role": "label_candidate",
+          "text": "核设施、油田和出口终端受到威胁，市场上调潜在供应损失。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 163,
+            "y": 444,
+            "width": 225,
+            "height": 203
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh18",
+          "role": "label_candidate",
+          "text": "航运",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 429,
+            "y": 386,
+            "width": 120,
+            "height": 46
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh19",
+          "role": "label_candidate",
+          "text": "霍尔木兹海峡等通道受阻预期推高运输、保险与交割成本。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 421,
+            "y": 444,
+            "width": 225,
+            "height": 203
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh21",
+          "role": "label_candidate",
+          "text": "预期",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 686,
+            "y": 386,
+            "width": 120,
+            "height": 46
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh22",
+          "role": "label_candidate",
+          "text": "交易者在真实减产前提前定价，造成事件日前后价格快速调整。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 679,
+            "y": 444,
+            "width": 225,
+            "height": 203
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh24",
+          "role": "label_candidate",
+          "text": "溢价",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 944,
+            "y": 386,
+            "width": 120,
+            "height": 46
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s04_sh25",
+          "role": "label_candidate",
+          "text": "地缘政治不确定性提高持有与套期保值需求，放大短期波动。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 936,
+            "y": 444,
+            "width": 225,
+            "height": 203
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 5,
+      "page_type": "content_candidate",
+      "text_summary": "研究问题与三项假设\n2026.06\nBEIHANG UNIVERSITY\n01\n02\n03\n04\n研究目标\n分离五次冲击，比较显著性与经济幅度\nH2 基准\nBrent 对中东冲突的反应强于 WTI\nH1 异常\n重大冲突事件产生显著累计异常收益\nH3 类型\n石油设施与航运通道事件冲击更强",
+      "slots": [
+        {
+          "slot_id": "s05_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh10",
+          "role": "title_candidate",
+          "text": "研究问题与三项假设",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh14",
+          "role": "label_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 196,
+            "y": 273,
+            "width": 155,
+            "height": 155
+          },
+          "text_metrics": {
+            "font_size_px": 48.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh15",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 178,
+            "y": 255,
+            "width": 191,
+            "height": 191
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh18",
+          "role": "label_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 196,
+            "y": 273,
+            "width": 155,
+            "height": 155
+          },
+          "text_metrics": {
+            "font_size_px": 48.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 178,
+            "y": 255,
+            "width": 191,
+            "height": 191
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh21",
+          "role": "label_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 196,
+            "y": 273,
+            "width": 155,
+            "height": 155
+          },
+          "text_metrics": {
+            "font_size_px": 48.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh22",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 178,
+            "y": 255,
+            "width": 191,
+            "height": 191
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh24",
+          "role": "label_candidate",
+          "text": "04",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 196,
+            "y": 273,
+            "width": 155,
+            "height": 155
+          },
+          "text_metrics": {
+            "font_size_px": 48.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh25",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 178,
+            "y": 255,
+            "width": 191,
+            "height": 191
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh26",
+          "role": "label_candidate",
+          "text": "研究目标",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 154,
+            "y": 207,
+            "width": 171,
+            "height": 46
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh27",
+          "role": "label_candidate",
+          "text": "分离五次冲击，比较显著性与经济幅度",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 96,
+            "y": 256,
+            "width": 286,
+            "height": 75
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh28",
+          "role": "label_candidate",
+          "text": "H2 基准",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 698,
+            "y": 207,
+            "width": 171,
+            "height": 46
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh29",
+          "role": "label_candidate",
+          "text": "Brent 对中东冲突的反应强于 WTI",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 640,
+            "y": 256,
+            "width": 286,
+            "height": 75
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh30",
+          "role": "label_candidate",
+          "text": "H1 异常",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 436,
+            "y": 432,
+            "width": 171,
+            "height": 46
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh31",
+          "role": "label_candidate",
+          "text": "重大冲突事件产生显著累计异常收益",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 379,
+            "y": 481,
+            "width": 286,
+            "height": 75
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh32",
+          "role": "label_candidate",
+          "text": "H3 类型",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 969,
+            "y": 432,
+            "width": 171,
+            "height": 46
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh33",
+          "role": "label_candidate",
+          "text": "石油设施与航运通道事件冲击更强",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 911,
+            "y": 481,
+            "width": 286,
+            "height": 75
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 6,
+      "page_type": "content_candidate",
+      "text_summary": "数据与样本\n2026.06\nBEIHANG UNIVERSITY\nFRED：WTI（DCOILWTICO）与 Brent（DCOILBRENTEU）日度现货价\n数据与变量\n收益率：rₜ = ln(Pₜ) − ln(Pₜ₋₁)，共 345 个交易日\nACLED：六个目标国家的周度事件数与死亡人数，仅作背景验证\n1\n2\n3\n样本区间：2025-01-01 至 2026-06-01\n样本设计\n五个事件：E1–E5，覆盖核设施、联合打击、出口设施与海峡风险\n事件日映射至最近交易日；事件选择不使用事后油价波动\n1\n2\n3",
+      "slots": [
+        {
+          "slot_id": "s06_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh10",
+          "role": "title_candidate",
+          "text": "数据与样本",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh13",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 141,
+            "width": 521,
+            "height": 485
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh14",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 141,
+            "width": 521,
+            "height": 80
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh15",
+          "role": "label_candidate",
+          "text": "FRED：WTI（DCOILWTICO）与 Brent（DCOILBRENTEU）日度现货价",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 265,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh16",
+          "role": "title_candidate",
+          "text": "数据与变量",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 142,
+            "y": 158,
+            "width": 452,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh18",
+          "role": "label_candidate",
+          "text": "收益率：rₜ = ln(Pₜ) − ln(Pₜ₋₁)，共 345 个交易日",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 389,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh19",
+          "role": "label_candidate",
+          "text": "ACLED：六个目标国家的周度事件数与死亡人数，仅作背景验证",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 514,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh20",
+          "role": "label_candidate",
+          "text": "1",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 255,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh21",
+          "role": "label_candidate",
+          "text": "2",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 378,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh22",
+          "role": "label_candidate",
+          "text": "3",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 501,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh26",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 141,
+            "width": 521,
+            "height": 485
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh27",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 141,
+            "width": 521,
+            "height": 80
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh28",
+          "role": "label_candidate",
+          "text": "样本区间：2025-01-01 至 2026-06-01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 265,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh29",
+          "role": "title_candidate",
+          "text": "样本设计",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 158,
+            "width": 452,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh30",
+          "role": "label_candidate",
+          "text": "五个事件：E1–E5，覆盖核设施、联合打击、出口设施与海峡风险",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 389,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh31",
+          "role": "label_candidate",
+          "text": "事件日映射至最近交易日；事件选择不使用事后油价波动",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 514,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh32",
+          "role": "label_candidate",
+          "text": "1",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 255,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh33",
+          "role": "label_candidate",
+          "text": "2",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 378,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh34",
+          "role": "label_candidate",
+          "text": "3",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 501,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh38",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 621,
+            "width": 521,
+            "height": 5
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh39",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 621,
+            "width": 521,
+            "height": 5
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 7,
+      "page_type": "content_candidate",
+      "text_summary": "02\n统计方法与研究设计\n事件研究识别短期异常反应，ITS 与断点检验验证动态变化\nBEIHANG UNIVERSITY",
+      "slots": [
+        {
+          "slot_id": "s07_sh2",
+          "role": "title_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 676,
+            "y": 82,
+            "width": 447,
+            "height": 169
+          },
+          "text_metrics": {
+            "font_size_px": 265.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh3",
+          "role": "label_candidate",
+          "text": "统计方法与研究设计",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 195,
+            "y": 341,
+            "width": 767,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 88.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -399,
+            "y": -226,
+            "width": 786,
+            "height": 503
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -366,
+            "y": -156,
+            "width": 675,
+            "height": 381
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh8",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -399,
+            "y": -210,
+            "width": 786,
+            "height": 488
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -366,
+            "y": -156,
+            "width": 675,
+            "height": 381
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh17",
+          "role": "label_candidate",
+          "text": "事件研究识别短期异常反应，ITS 与断点检验验证动态变化",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 226,
+            "y": 464,
+            "width": 639,
+            "height": 126
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh26",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 8,
+      "page_type": "content_candidate",
+      "text_summary": "统计方法链\n2026.06\nBEIHANG UNIVERSITY\n事件\nCAR\nITS\n诊断\n外部事实选取事件 → 市场模型估计正常收益 → AR 与 CAR → 显著性检验 → ITS 分离水平/趋势 → DW、BP、Newey-West 与结构断点\n完整分析流程",
+      "slots": [
+        {
+          "slot_id": "s08_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh10",
+          "role": "title_candidate",
+          "text": "统计方法链",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh14",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 154,
+            "y": 191,
+            "width": 232,
+            "height": 232
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh18",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 680,
+            "y": 287,
+            "width": 58,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 696,
+            "y": 305,
+            "width": 26,
+            "height": 3
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 696,
+            "y": 313,
+            "width": 26,
+            "height": 3
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh16",
+          "role": "label_candidate",
+          "text": "事件",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 188,
+            "y": 333,
+            "width": 164,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh22",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 382,
+            "y": 191,
+            "width": 232,
+            "height": 232
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh23",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 471,
+            "y": 243,
+            "width": 50,
+            "height": 79
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh24",
+          "role": "label_candidate",
+          "text": "CAR",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 414,
+            "y": 333,
+            "width": 164,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh26",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 611,
+            "y": 191,
+            "width": 232,
+            "height": 232
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh29",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 843,
+            "y": 600,
+            "width": 45,
+            "height": 53
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh30",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 855,
+            "y": 591,
+            "width": 22,
+            "height": 14
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh31",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 853,
+            "y": 613,
+            "width": 26,
+            "height": 3
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh32",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 853,
+            "y": 621,
+            "width": 26,
+            "height": 3
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh33",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 853,
+            "y": 629,
+            "width": 26,
+            "height": 3
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh34",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 853,
+            "y": 637,
+            "width": 26,
+            "height": 3
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh28",
+          "role": "label_candidate",
+          "text": "ITS",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 644,
+            "y": 333,
+            "width": 164,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh36",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 815,
+            "y": 191,
+            "width": 232,
+            "height": 232
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh39",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 998,
+            "y": 597,
+            "width": 45,
+            "height": 58
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh40",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1005,
+            "y": 605,
+            "width": 29,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh41",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1018,
+            "y": 645,
+            "width": 3,
+            "height": 3
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh38",
+          "role": "label_candidate",
+          "text": "诊断",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 850,
+            "y": 333,
+            "width": 164,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh42",
+          "role": "label_candidate",
+          "text": "外部事实选取事件 → 市场模型估计正常收益 → AR 与 CAR → 显著性检验 → ITS 分离水平/趋势 → DW、BP、Newey-West 与结构断点",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 141,
+            "y": 491,
+            "width": 1026,
+            "height": 157
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh47",
+          "role": "label_candidate",
+          "text": "完整分析流程",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 436,
+            "y": 431,
+            "width": 389,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 9,
+      "page_type": "content_candidate",
+      "text_summary": "事件研究法\n2026.06\nBEIHANG UNIVERSITY\n市场模型\nAR 与 CAR\nt = CAR/(σ̂AR√L)\n窗口：[-1,+1]、[0,+3]、[0,+5]\n补充 BH-FDR 与 Bonferroni\n显著性\nARᵢ,ₜ = Rᵢ,ₜ − Ê(Rᵢ,ₜ)\nCAR = Σ ARᵢ,ₜ\nRᵢ,ₜ = αᵢ + βᵢRₘ,ₜ + εᵢ,ₜ\n估计窗：[-120,-21]",
+      "slots": [
+        {
+          "slot_id": "s09_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh10",
+          "role": "title_candidate",
+          "text": "事件研究法",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh14",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 103,
+            "y": 195,
+            "width": 379,
+            "height": 374
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh15",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 83,
+            "y": 177,
+            "width": 379,
+            "height": 374
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh16",
+          "role": "label_candidate",
+          "text": "市场模型",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 209,
+            "y": 201,
+            "width": 198,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh18",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 459,
+            "y": 195,
+            "width": 379,
+            "height": 374
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 439,
+            "y": 177,
+            "width": 379,
+            "height": 374
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh20",
+          "role": "label_candidate",
+          "text": "AR 与 CAR",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 566,
+            "y": 201,
+            "width": 213,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh21",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 816,
+            "y": 195,
+            "width": 379,
+            "height": 374
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh22",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 796,
+            "y": 177,
+            "width": 379,
+            "height": 374
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s09_sh23",
+          "role": "label_candidate",
+          "text": "t = CAR/(σ̂AR√L)\n窗口：[-1,+1]、[0,+3]、[0,+5]\n补充 BH-FDR 与 Bonferroni",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 881,
+            "y": 310,
+            "width": 214,
+            "height": 250
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s09_sh24",
+          "role": "label_candidate",
+          "text": "显著性",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 922,
+            "y": 201,
+            "width": 194,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh25",
+          "role": "label_candidate",
+          "text": "ARᵢ,ₜ = Rᵢ,ₜ − Ê(Rᵢ,ₜ)\nCAR = Σ ARᵢ,ₜ",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 519,
+            "y": 310,
+            "width": 213,
+            "height": 250
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s09_sh26",
+          "role": "label_candidate",
+          "text": "Rᵢ,ₜ = αᵢ + βᵢRₘ,ₜ + εᵢ,ₜ\n估计窗：[-120,-21]",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 160,
+            "y": 310,
+            "width": 226,
+            "height": 250
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 2
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 10,
+      "page_type": "content_candidate",
+      "text_summary": "ITS 与诊断\n2026.06\nBEIHANG UNIVERSITY\nITS\nDW\nBP\nNW\nrₜ = β₀ + β₁timeₜ\n+ β₂postₜ\n+ β₃time_afterₜ + εₜ\nβ₂：即时冲击\nβ₃：趋势变化\nDurbin-Watson\n检查残差一阶自相关\n接近 2 表示相关性较弱\nBreusch-Pagan\n检验残差方差是否稳定\np < 0.05 提示异方差\nNewey-West 修正标准误\nRSS/BIC 网格搜索近似 Bai-Perron\n比较断点与事件日期",
+      "slots": [
+        {
+          "slot_id": "s10_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh10",
+          "role": "title_candidate",
+          "text": "ITS 与诊断",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh13",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 38,
+            "y": 126,
+            "width": 1205,
+            "height": 494
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh15",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 87,
+            "y": 327,
+            "width": 201,
+            "height": 63
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh16",
+          "role": "label_candidate",
+          "text": "ITS",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 134,
+            "y": 342,
+            "width": 106,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 417,
+            "y": 225,
+            "width": 201,
+            "height": 63
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh20",
+          "role": "label_candidate",
+          "text": "DW",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 464,
+            "y": 241,
+            "width": 106,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh22",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 581,
+            "y": 327,
+            "width": 201,
+            "height": 63
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh23",
+          "role": "label_candidate",
+          "text": "BP",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 629,
+            "y": 342,
+            "width": 106,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh25",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 868,
+            "y": 327,
+            "width": 201,
+            "height": 63
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh26",
+          "role": "label_candidate",
+          "text": "NW",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 916,
+            "y": 342,
+            "width": 106,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh27",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 82,
+            "y": 259,
+            "width": 262,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh28",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 364,
+            "y": 259,
+            "width": 262,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh29",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 653,
+            "y": 259,
+            "width": 262,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh30",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 938,
+            "y": 259,
+            "width": 262,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh31",
+          "role": "body_candidate",
+          "text": "rₜ = β₀ + β₁timeₜ\n+ β₂postₜ\n+ β₃time_afterₜ + εₜ\nβ₂：即时冲击\nβ₃：趋势变化",
+          "paragraph_count": 5,
+          "geometry": {
+            "x": 90,
+            "y": 262,
+            "width": 273,
+            "height": 315
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 5
+          }
+        },
+        {
+          "slot_id": "s10_sh32",
+          "role": "body_candidate",
+          "text": "Durbin-Watson\n检查残差一阶自相关\n接近 2 表示相关性较弱",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 364,
+            "y": 262,
+            "width": 247,
+            "height": 315
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s10_sh33",
+          "role": "body_candidate",
+          "text": "Breusch-Pagan\n检验残差方差是否稳定\np < 0.05 提示异方差",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 654,
+            "y": 262,
+            "width": 247,
+            "height": 315
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s10_sh34",
+          "role": "body_candidate",
+          "text": "Newey-West 修正标准误\nRSS/BIC 网格搜索近似 Bai-Perron\n比较断点与事件日期",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 938,
+            "y": 262,
+            "width": 252,
+            "height": 315
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 3
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 11,
+      "page_type": "content_candidate",
+      "text_summary": "03\n实证结果与解释\n统计显著性、经济幅度与冲击机制需要结合解读\nBEIHANG UNIVERSITY",
+      "slots": [
+        {
+          "slot_id": "s11_sh2",
+          "role": "title_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 676,
+            "y": 82,
+            "width": 447,
+            "height": 169
+          },
+          "text_metrics": {
+            "font_size_px": 265.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh3",
+          "role": "label_candidate",
+          "text": "实证结果与解释",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 195,
+            "y": 341,
+            "width": 767,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 88.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -399,
+            "y": -226,
+            "width": 786,
+            "height": 503
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -366,
+            "y": -156,
+            "width": 675,
+            "height": 381
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh8",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -399,
+            "y": -210,
+            "width": 786,
+            "height": 488
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": -366,
+            "y": -156,
+            "width": 675,
+            "height": 381
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh17",
+          "role": "label_candidate",
+          "text": "统计显著性、经济幅度与冲击机制需要结合解读",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 226,
+            "y": 464,
+            "width": 639,
+            "height": 126
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh26",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 12,
+      "page_type": "content_candidate",
+      "text_summary": "收益率特征\n2026.06\nBEIHANG UNIVERSITY\n2.901%\n2.984%\n0.845\nWTI 波动\nBrent σ\n相关系数\n均值 0.080%；偏度 -0.547；峰度 8.391。Brent 同样呈现明显高峰厚尾。\n均值 0.081%；偏度 -0.888；峰度 9.855。负偏与高峰度表明下行尾部风险突出。\n两种基准油价高度联动，但对中东供应风险的敏感度和反应幅度并不完全一致。",
+      "slots": [
+        {
+          "slot_id": "s12_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh10",
+          "role": "title_candidate",
+          "text": "收益率特征",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh16",
+          "role": "label_candidate",
+          "text": "2.901%",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 186,
+            "y": 174,
+            "width": 149,
+            "height": 94
+          },
+          "text_metrics": {
+            "font_size_px": 64.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh18",
+          "role": "label_candidate",
+          "text": "2.984%",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 566,
+            "y": 174,
+            "width": 149,
+            "height": 94
+          },
+          "text_metrics": {
+            "font_size_px": 64.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh19",
+          "role": "label_candidate",
+          "text": "0.845",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 945,
+            "y": 174,
+            "width": 149,
+            "height": 94
+          },
+          "text_metrics": {
+            "font_size_px": 64.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 255,
+            "y": 275,
+            "width": 11,
+            "height": 10
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh21",
+          "role": "label_candidate",
+          "text": "WTI 波动",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 186,
+            "y": 291,
+            "width": 149,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh22",
+          "role": "label_candidate",
+          "text": "Brent σ",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 566,
+            "y": 291,
+            "width": 149,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh23",
+          "role": "label_candidate",
+          "text": "相关系数",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 945,
+            "y": 291,
+            "width": 149,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh24",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 634,
+            "y": 275,
+            "width": 11,
+            "height": 10
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh25",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1014,
+            "y": 275,
+            "width": 11,
+            "height": 10
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh26",
+          "role": "label_candidate",
+          "text": "均值 0.080%；偏度 -0.547；峰度 8.391。Brent 同样呈现明显高峰厚尾。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 489,
+            "y": 431,
+            "width": 303,
+            "height": 224
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh27",
+          "role": "label_candidate",
+          "text": "均值 0.081%；偏度 -0.888；峰度 9.855。负偏与高峰度表明下行尾部风险突出。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 109,
+            "y": 431,
+            "width": 303,
+            "height": 224
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh28",
+          "role": "label_candidate",
+          "text": "两种基准油价高度联动，但对中东供应风险的敏感度和反应幅度并不完全一致。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 868,
+            "y": 431,
+            "width": 303,
+            "height": 224
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [
+        {
+          "chart_id": "s12_ch13",
+          "chart_type": "doughnutChart",
+          "category_count": 2,
+          "series_count": 1,
+          "categories": [
+            "标准差",
+            "其余"
+          ],
+          "series": [
+            {
+              "name": "WTI",
+              "values": [
+                2.901,
+                97.099
+              ]
+            }
+          ]
+        },
+        {
+          "chart_id": "s12_ch14",
+          "chart_type": "doughnutChart",
+          "category_count": 2,
+          "series_count": 1,
+          "categories": [
+            "标准差",
+            "其余"
+          ],
+          "series": [
+            {
+              "name": "Brent",
+              "values": [
+                2.984,
+                97.016
+              ]
+            }
+          ]
+        },
+        {
+          "chart_id": "s12_ch15",
+          "chart_type": "doughnutChart",
+          "category_count": 2,
+          "series_count": 1,
+          "categories": [
+            "相关",
+            "其余"
+          ],
+          "series": [
+            {
+              "name": "相关系数",
+              "values": [
+                84.5,
+                15.5
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slide_index": 13,
+      "page_type": "content_candidate",
+      "text_summary": "CAR 核心结果\n2026.06\nBEIHANG UNIVERSITY\nE4 冲击最强：Brent CAR 为 13.552%，WTI 相对 CAR 为 -10.198%，经 BH-FDR 与 Bonferroni 修正后仍显著。E2、E3 仅在原始检验中呈边际显著，修正后不稳健。",
+      "slots": [
+        {
+          "slot_id": "s13_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh10",
+          "role": "title_candidate",
+          "text": "CAR 核心结果",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh14",
+          "role": "label_candidate",
+          "text": "E4 冲击最强：Brent CAR 为 13.552%，WTI 相对 CAR 为 -10.198%，经 BH-FDR 与 Bonferroni 修正后仍显著。E2、E3 仅在原始检验中呈边际显著，修正后不稳健。",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 78,
+            "y": 129,
+            "width": 1139,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": [
+        {
+          "chart_id": "s13_ch13",
+          "chart_type": "barChart",
+          "category_count": 5,
+          "series_count": 2,
+          "categories": [
+            "E1",
+            "E2",
+            "E3",
+            "E4",
+            "E5"
+          ],
+          "series": [
+            {
+              "name": "WTI",
+              "values": [
+                0.214,
+                -3.681,
+                2.567,
+                -10.198,
+                -0.165
+              ]
+            },
+            {
+              "name": "Brent",
+              "values": [
+                2.265,
+                2.859,
+                2.474,
+                13.552,
+                -0.711
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slide_index": 14,
+      "page_type": "chapter_candidate",
+      "text_summary": "ITS 与断点\n2026.06\nBEIHANG UNIVERSITY\nE3 Brent 即时水平冲击：+3.344%，NW p = 0.0109\nITS 核心发现\nE4 WTI 相对即时冲击：-3.082%，NW p = 0.0459\n其余事件的即时或趋势变化多数缺乏稳健显著性\n1\n2\n3\nDW 多数接近 2，残差一阶自相关总体有限\n诊断与断点\n部分 BP 检验显著，因此使用 Newey-West 修正推断\nWTI/Brent 断点集中于 2026-02-27 至 03-02，与 E3 高度重合\n1\n2\n3",
+      "slots": [
+        {
+          "slot_id": "s14_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s14_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s14_sh10",
+          "role": "title_candidate",
+          "text": "ITS 与断点",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh13",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 141,
+            "width": 521,
+            "height": 485
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s14_sh14",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 141,
+            "width": 521,
+            "height": 80
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s14_sh15",
+          "role": "label_candidate",
+          "text": "E3 Brent 即时水平冲击：+3.344%，NW p = 0.0109",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 265,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh16",
+          "role": "title_candidate",
+          "text": "ITS 核心发现",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 142,
+            "y": 158,
+            "width": 452,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh18",
+          "role": "label_candidate",
+          "text": "E4 WTI 相对即时冲击：-3.082%，NW p = 0.0459",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 389,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh19",
+          "role": "label_candidate",
+          "text": "其余事件的即时或趋势变化多数缺乏稳健显著性",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 514,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh20",
+          "role": "label_candidate",
+          "text": "1",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 255,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh21",
+          "role": "label_candidate",
+          "text": "2",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 378,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh22",
+          "role": "label_candidate",
+          "text": "3",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 501,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh26",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 141,
+            "width": 521,
+            "height": 485
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s14_sh27",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 141,
+            "width": 521,
+            "height": 80
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s14_sh28",
+          "role": "label_candidate",
+          "text": "DW 多数接近 2，残差一阶自相关总体有限",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 265,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh29",
+          "role": "title_candidate",
+          "text": "诊断与断点",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 158,
+            "width": 452,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh30",
+          "role": "label_candidate",
+          "text": "部分 BP 检验显著，因此使用 Newey-West 修正推断",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 389,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh31",
+          "role": "label_candidate",
+          "text": "WTI/Brent 断点集中于 2026-02-27 至 03-02，与 E3 高度重合",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 514,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh32",
+          "role": "label_candidate",
+          "text": "1",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 255,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh33",
+          "role": "label_candidate",
+          "text": "2",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 378,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh34",
+          "role": "label_candidate",
+          "text": "3",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 501,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh38",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 621,
+            "width": 521,
+            "height": 5
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s14_sh39",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 621,
+            "width": 521,
+            "height": 5
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 15,
+      "page_type": "content_candidate",
+      "text_summary": "结论与展望\n2026.06\nBEIHANG UNIVERSITY\n事件冲击并非普遍显著，E4 是主窗口中最稳健、经济幅度最大的事件\n主要结论\nBrent 对中东供应风险反应更直接，支持基准油价敏感度差异\nCAR、ITS 与断点结果共同支持事件影响具有类型和时点异质性\n1\n2\n3\nWTI 与 Brent 互为市场因子，CAR 是相对异常反应而非绝对因果效应\n局限与展望\nACLED 为周度汇总，不能替代 actor、地点和 notes 层面的逐事件数据\n后续引入独立商品指数、汇率与库存控制，并扩展联合事件模型\n1\n2\n3",
+      "slots": [
+        {
+          "slot_id": "s15_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 21,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 329,
+            "y": 27,
+            "width": 66,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh10",
+          "role": "title_candidate",
+          "text": "结论与展望",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 118,
+            "y": 20,
+            "width": 529,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh17",
+          "role": "label_candidate",
+          "text": "2026.06",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1135,
+            "y": 672,
+            "width": 115,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": 24.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh46",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 219,
+            "y": 123,
+            "width": 378,
+            "height": 38
+          },
+          "text_metrics": {
+            "font_size_px": 10.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh13",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 141,
+            "width": 521,
+            "height": 485
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh14",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 141,
+            "width": 521,
+            "height": 80
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh15",
+          "role": "label_candidate",
+          "text": "事件冲击并非普遍显著，E4 是主窗口中最稳健、经济幅度最大的事件",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 265,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh16",
+          "role": "title_candidate",
+          "text": "主要结论",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 142,
+            "y": 158,
+            "width": 452,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh18",
+          "role": "label_candidate",
+          "text": "Brent 对中东供应风险反应更直接，支持基准油价敏感度差异",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 389,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh19",
+          "role": "label_candidate",
+          "text": "CAR、ITS 与断点结果共同支持事件影响具有类型和时点异质性",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 131,
+            "y": 514,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh20",
+          "role": "label_candidate",
+          "text": "1",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 255,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh21",
+          "role": "label_candidate",
+          "text": "2",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 378,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh22",
+          "role": "label_candidate",
+          "text": "3",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 84,
+            "y": 501,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh26",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 141,
+            "width": 521,
+            "height": 485
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh27",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 141,
+            "width": 521,
+            "height": 80
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh28",
+          "role": "label_candidate",
+          "text": "WTI 与 Brent 互为市场因子，CAR 是相对异常反应而非绝对因果效应",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 265,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh29",
+          "role": "title_candidate",
+          "text": "局限与展望",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 760,
+            "y": 158,
+            "width": 452,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh30",
+          "role": "label_candidate",
+          "text": "ACLED 为周度汇总，不能替代 actor、地点和 notes 层面的逐事件数据",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 389,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh31",
+          "role": "label_candidate",
+          "text": "后续引入独立商品指数、汇率与库存控制，并扩展联合事件模型",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 514,
+            "width": 446,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh32",
+          "role": "label_candidate",
+          "text": "1",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 255,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh33",
+          "role": "label_candidate",
+          "text": "2",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 378,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh34",
+          "role": "label_candidate",
+          "text": "3",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 702,
+            "y": 501,
+            "width": 47,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh38",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 73,
+            "y": 621,
+            "width": 521,
+            "height": 5
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh39",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 692,
+            "y": 621,
+            "width": 521,
+            "height": 5
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 16,
+      "page_type": "ending_candidate",
+      "text_summary": "汇报人：XXX\n指导教师：XXX\n2026年6月12日\nBEIHANG UNIVERSITY\n汇报结束  感谢聆听！",
+      "slots": [
+        {
+          "slot_id": "s16_sh7",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 20,
+            "y": 12,
+            "width": 1240,
+            "height": 549
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh10",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 520,
+            "y": 541,
+            "width": 241,
+            "height": 40
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh11",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 315,
+            "y": 623,
+            "width": 290,
+            "height": 51
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh12",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 675,
+            "y": 623,
+            "width": 290,
+            "height": 51
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh15",
+          "role": "label_candidate",
+          "text": "汇报人：XXX",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 328,
+            "y": 633,
+            "width": 274,
+            "height": 31
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s16_sh16",
+          "role": "label_candidate",
+          "text": "指导教师：XXX",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 678,
+            "y": 633,
+            "width": 274,
+            "height": 31
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s16_sh17",
+          "role": "body_candidate",
+          "text": "2026年6月12日",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 503,
+            "y": 547,
+            "width": 274,
+            "height": 31
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s16_sh23",
+          "role": "title_candidate",
+          "text": "BEIHANG UNIVERSITY",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 228,
+            "y": 129,
+            "width": 368,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s16_sh18",
+          "role": "label_candidate",
+          "text": "汇报结束  感谢聆听！",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 20,
+            "y": 244,
+            "width": 1240,
+            "height": 149
+          },
+          "text_metrics": {
+            "font_size_px": 96.0,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    }
+  ],
+  "plan_contract": {
+    "schema": "template_fill_pptx_plan.v1",
+    "slides": [
+      {
+        "source_slide": 1,
+        "purpose": "封面 / 章节 / 内容 / 结尾",
+        "replacements": [
+          {
+            "slot_id": "s01_sh2",
+            "text": "替换后的文字"
+          }
+        ],
+        "table_edits": [
+          {
+            "table_id": "s01_tbl3",
+            "cells": [
+              {
+                "row": 0,
+                "col": 0,
+                "text": "替换后的单元格"
+              }
+            ]
+          }
+        ],
+        "chart_edits": [
+          {
+            "chart_id": "s01_ch4",
+            "categories": [
+              "A",
+              "B"
+            ],
+            "series": [
+              {
+                "name": "系列1",
+                "values": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

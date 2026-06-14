@@ -1,0 +1,6 @@
+event_id,event_date,title,source_url,source,acled_count,fatalities,gdelt_goldstein,mentions,notes,trading_date,oil_vol_component,event_score,rank
+E1,2025-06-13,以色列对伊朗核设施和军事目标发动大规模打击,https://www.csis.org/analysis/how-israels-strikes-iran-impacting-oil-market,CSIS and public news verification,0,0,-10,100,2025年直接冲突升级起点；新闻来源用于日期核验，ACLED汇总数据用于事件周背景验证。,2025-06-13,71.01216621639051,53.075602584206294,1
+E3,2026-02-28,美国与以色列对伊朗发动联合打击并引发地区性报复,https://www.theguardian.com/world/2026/feb/28/israel-launches-attack-on-iran-as-explosions-heard-in-tehran,The Guardian,0,0,-10,90,事件发生于周六，油价事件研究映射到首个交易日2026-03-02。,2026-03-02,70.07721356478936,52.55429753258425,2
+E5,2026-04-13,美国宣布对伊朗实施海上封锁并强化霍尔木兹海峡风险,https://www.washingtonpost.com/world/2026/04/13/iran-blockade-us-trump-hormuz/,The Washington Post,0,0,-9,85,涉及国际原油运输通道的供应链风险事件。,2026-04-13,149.50390001352298,49.27173648126754,3
+E4,2026-03-13,美国打击伊朗哈尔克岛军事目标并威胁石油出口基础设施,https://www.washingtonpost.com/politics/2026/03/13/trump-us-iran-war-kharg-island-oil/,The Washington Post,0,0,-9,80,与伊朗核心石油出口终端直接相关的供应风险事件。,2026-03-13,107.3612371593149,48.9722457733622,4
+E2,2025-06-17,伊以导弹与空袭交锋持续并扩大市场风险溢价,https://www.csis.org/analysis/how-israels-strikes-iran-impacting-oil-market,CSIS and ACLED weekly verification,0,0,-8,70,连续冲突中的后续升级节点；与E1仅相隔4天，论文中明确说明窗口重叠风险。,2025-06-17,71.01216621639051,45.31339938520658,5

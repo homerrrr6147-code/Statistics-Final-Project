@@ -1,0 +1,101 @@
+{
+  "deck": "C:\\Users\\HOMER\\Desktop\\数理统计大作业\\projects\\T3_course_defense\\exports\\T3_中东冲突与国际油价_课程答辩_20260612_211804.pptx",
+  "slide_count": 16,
+  "slide_master_count": 1,
+  "slide_layout_count": 11,
+  "theme_count": 2,
+  "media_count": 14,
+  "chart_count": 4,
+  "notes_slide_count": 16,
+  "placeholder_leftovers": [],
+  "missing_required_text": [],
+  "template_part_preservation": {
+    "compared_parts": 22,
+    "byte_identical_parts": 22
+  },
+  "charts": {
+    "ppt/charts/chart6.xml": {
+      "series": [
+        {
+          "name": "WTI",
+          "categories": [
+            "标准差",
+            "其余"
+          ],
+          "values": [
+            2.901,
+            97.099
+          ]
+        }
+      ]
+    },
+    "ppt/charts/chart7.xml": {
+      "series": [
+        {
+          "name": "Brent",
+          "categories": [
+            "标准差",
+            "其余"
+          ],
+          "values": [
+            2.984,
+            97.016
+          ]
+        }
+      ]
+    },
+    "ppt/charts/chart8.xml": {
+      "series": [
+        {
+          "name": "相关系数",
+          "categories": [
+            "相关",
+            "其余"
+          ],
+          "values": [
+            84.5,
+            15.5
+          ]
+        }
+      ]
+    },
+    "ppt/charts/chart9.xml": {
+      "series": [
+        {
+          "name": "WTI",
+          "categories": [
+            "E1",
+            "E2",
+            "E3",
+            "E4",
+            "E5"
+          ],
+          "values": [
+            0.214,
+            -3.681,
+            2.567,
+            -10.198,
+            -0.165
+          ]
+        },
+        {
+          "name": "Brent",
+          "categories": [
+            "E1",
+            "E2",
+            "E3",
+            "E4",
+            "E5"
+          ],
+          "values": [
+            2.265,
+            2.859,
+            2.474,
+            13.552,
+            -0.711
+          ]
+        }
+      ]
+    }
+  }
+}

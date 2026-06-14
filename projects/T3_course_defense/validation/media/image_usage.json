@@ -1,0 +1,586 @@
+[
+  {
+    "slide": 1,
+    "images": [
+      {
+        "relationship": "rId3",
+        "target": "ppt/media/image1.png",
+        "x": 2764852,
+        "y": 1350313,
+        "cx": 6117528,
+        "cy": 6117528
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image2.jpg",
+        "x": 191346,
+        "y": 116631,
+        "cx": 11809309,
+        "cy": 5226782
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image3.png",
+        "x": 751446,
+        "y": 486412,
+        "cx": 1253932,
+        "cy": 1253932
+      },
+      {
+        "relationship": "rId6",
+        "target": "ppt/media/image4.png",
+        "x": 1960350,
+        "y": 609785,
+        "cx": 3710021,
+        "cy": 607920
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image1.png",
+        "x": 6030031,
+        "y": 522153,
+        "cx": 6049548,
+        "cy": 6049548
+      },
+      {
+        "relationship": "rId3",
+        "target": "ppt/media/image5.jpg",
+        "x": 1,
+        "y": -1,
+        "cx": 6240014,
+        "cy": 6872989
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image6.png",
+        "x": 9813545,
+        "y": 6447112,
+        "cx": 2093426,
+        "cy": 334487
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image7.png",
+        "x": 825667,
+        "y": 458497,
+        "cx": 1253932,
+        "cy": 1253932
+      },
+      {
+        "relationship": "rId6",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image1.png",
+        "x": 717529,
+        "y": 140750,
+        "cx": 7019929,
+        "cy": 7019929
+      },
+      {
+        "relationship": "rId3",
+        "target": "ppt/media/image6.png",
+        "x": 360134,
+        "y": 6274257,
+        "cx": 2583927,
+        "cy": 412859
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 825667,
+        "y": 458497,
+        "cx": 1253932,
+        "cy": 1253932
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 4,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      },
+      {
+        "relationship": "rId6",
+        "target": "ppt/media/image15.jpeg",
+        "x": 1245868,
+        "y": 1268751,
+        "cx": 2146243,
+        "cy": 2146243
+      },
+      {
+        "relationship": "rId7",
+        "target": "ppt/media/image16.jpeg",
+        "x": 3700551,
+        "y": 1268758,
+        "cx": 2146236,
+        "cy": 2146236
+      },
+      {
+        "relationship": "rId6",
+        "target": "ppt/media/image15.jpeg",
+        "x": 6155196,
+        "y": 1275721,
+        "cx": 2146300,
+        "cy": 2146300
+      },
+      {
+        "relationship": "rId7",
+        "target": "ppt/media/image16.jpeg",
+        "x": 8609872,
+        "y": 1275726,
+        "cx": 2146299,
+        "cy": 2146299
+      }
+    ]
+  },
+  {
+    "slide": 5,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      },
+      {
+        "relationship": "rId6",
+        "target": "ppt/media/image1.png",
+        "x": 6096000,
+        "y": 934641,
+        "cx": 6049548,
+        "cy": 6049548
+      }
+    ]
+  },
+  {
+    "slide": 6,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 7,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image1.png",
+        "x": 717529,
+        "y": 140750,
+        "cx": 7019929,
+        "cy": 7019929
+      },
+      {
+        "relationship": "rId3",
+        "target": "ppt/media/image6.png",
+        "x": 360134,
+        "y": 6274257,
+        "cx": 2583927,
+        "cy": 412859
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 825667,
+        "y": 458497,
+        "cx": 1253932,
+        "cy": 1253932
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 8,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      },
+      {
+        "relationship": "rId6",
+        "target": "ppt/media/image1.png",
+        "x": 6096000,
+        "y": 934641,
+        "cx": 6049548,
+        "cy": 6049548
+      }
+    ]
+  },
+  {
+    "slide": 9,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      },
+      {
+        "relationship": "rId6",
+        "target": "ppt/media/image1.png",
+        "x": 6096000,
+        "y": 934641,
+        "cx": 6049548,
+        "cy": 6049548
+      }
+    ]
+  },
+  {
+    "slide": 10,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 11,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image1.png",
+        "x": 717529,
+        "y": 140750,
+        "cx": 7019929,
+        "cy": 7019929
+      },
+      {
+        "relationship": "rId3",
+        "target": "ppt/media/image6.png",
+        "x": 360134,
+        "y": 6274257,
+        "cx": 2583927,
+        "cy": 412859
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 825667,
+        "y": 458497,
+        "cx": 1253932,
+        "cy": 1253932
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 12,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 13,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 14,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 15,
+    "images": [
+      {
+        "relationship": "rId2",
+        "target": "ppt/media/image9.png",
+        "x": 285270,
+        "y": 6444305,
+        "cx": 2117266,
+        "cy": 338296
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image7.png",
+        "x": 1018596,
+        "y": 583069,
+        "cx": 1033500,
+        "cy": 1033500
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image8.png",
+        "x": 2006780,
+        "y": 606338,
+        "cx": 3642029,
+        "cy": 596779
+      }
+    ]
+  },
+  {
+    "slide": 16,
+    "images": [
+      {
+        "relationship": "rId3",
+        "target": "ppt/media/image1.png",
+        "x": 2764852,
+        "y": 1350313,
+        "cx": 6117528,
+        "cy": 6117528
+      },
+      {
+        "relationship": "rId4",
+        "target": "ppt/media/image34.jpg",
+        "x": 191345,
+        "y": 116631,
+        "cx": 11809308,
+        "cy": 5226782
+      },
+      {
+        "relationship": "rId5",
+        "target": "ppt/media/image3.png",
+        "x": 751446,
+        "y": 486412,
+        "cx": 1253932,
+        "cy": 1253932
+      },
+      {
+        "relationship": "rId6",
+        "target": "ppt/media/image4.png",
+        "x": 1960350,
+        "y": 609785,
+        "cx": 3710021,
+        "cy": 607920
+      },
+      {
+        "relationship": "rId7",
+        "target": "ppt/media/image42.png",
+        "x": 2039657,
+        "y": 4040776,
+        "cx": 8112685,
+        "cy": 734387
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+event_id,event_date,acled_week,week_events,week_fatalities,top_country_in_week,top_country_events
+E1,2025-06-13,2025-06-14,1220,551,Iran,430
+E3,2026-02-28,2026-02-28,2012,835,Iran,765
+E5,2026-04-13,2026-04-18,868,83,Iran,282
+E4,2026-03-13,2026-03-14,1901,533,Iran,734
+E2,2025-06-17,2025-06-21,848,550,Yemen,245
